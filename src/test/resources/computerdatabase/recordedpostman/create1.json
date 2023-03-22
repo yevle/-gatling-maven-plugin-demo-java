@@ -1,0 +1,7 @@
+{
+    "name": "My new",
+    "description": "brand new product",
+    "price": "10.99",
+    "categoryId": 7,
+    "image": "my-new-product.jpg"
+}
